@@ -1,2 +1,1 @@
- This is sample1.txt
- hello 123
+ This is sample1.txt 
